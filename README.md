@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### 사용언어
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyeon0027&show_icons=true&theme=graywhite)
