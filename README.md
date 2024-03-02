@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 안녕하세요!
+#### 안녕하세요!
 ---
 - 하고 싶은게 매일매일 바뀌는 학생입니다.
 - 현재는 프론트 개발 공부를 하고 있어요 :)
   
-
 ##### 사용언어
 ---
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027)](https://github.com/anuraghazra/github-readme-stats)![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon0027&show_icons=true&theme=radical)
+<div align= "center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027)](https://github.com/anuraghazra/github-readme-stats)
+  ![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon0027&show_icons=true&theme=radical)
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawldus3412)](https://solved.ac/rlawldus3412/)
