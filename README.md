@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon0027&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027)](https://github.com/anuraghazra/github-readme-stats)![Jiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeon0027&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawldus3412)](https://solved.ac/rlawldus3412/)
