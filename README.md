@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 <div display="flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027&layout=compact&hide=jupyter%20notebook">
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawldus3412)](https://solved.ac/rlawldus3412/)
 </div>
