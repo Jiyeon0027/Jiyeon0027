@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### 안녕하세요!
 ---
 - 하고 싶은게 매일매일 바뀌는 학생입니다.
-- 현재는 프론트 개발 공부를 하고 있어요 :)
+- 현재는 데이터 파이프라인 공부, 타입스크립트 공부를 하고 있어요 :)
   
 #### 사용언어
 ---
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <div display="flex">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon0027&layout=compact&hide=jupyter%20notebook">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawldus3412)](https://solved.ac/rlawldus3412/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawldus3412)](https://solved.ac/rlawldus3412)
 </div>
