@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 #### 안녕하세요!
 ---
-- 하고 싶은게 매일매일 바뀌는 학생입니다.
-- 현재는 데이터 파이프라인 공부, 타입스크립트 공부를 하고 있어요 :)
+- typescript, express, node js 공부중 ...
   
 #### 사용언어
 ---
