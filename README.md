@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 #### 안녕하세요!
----
-- typescript, express, node js 공부중 ...
   
 #### 사용언어
 ---
